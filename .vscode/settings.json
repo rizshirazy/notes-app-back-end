@@ -1,0 +1,6 @@
+{
+  "vetur.format.defaultFormatter.js": "prettier-eslint",
+  "js/ts.implicitProjectConfig.target": "ESNext",
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": false,
+  "javascript.format.insertSpaceAfterConstructor": true
+}
